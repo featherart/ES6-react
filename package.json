@@ -1,0 +1,49 @@
+{
+  "name": "es6React",
+  "version": "1.0.0",
+  "description": "Workshop for ES6 React",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:btholt/es6-react-pres"
+  },
+  "keywords": [
+    "es6",
+    "react",
+    "workshop",
+    "fluent",
+    "oscon"
+  ],
+  "author": "Brian Holt <btholt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btholt/es6-react-pres/issues"
+  },
+  "homepage": "https://github.com/btholt/es6-react-pres",
+  "dependencies": {
+    "font-awesome": "^4.3.0",
+    "lodash": "^3.6.0",
+    "omdb-client": "^1.0.6",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  },
+  "devDependencies": {
+    "aliasify": "^1.7.2",
+    "babel-core": "^6.1.2",
+    "babel-polyfill": "^6.0.16",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.2",
+    "koa": "^0.19.1",
+    "koa-mount": "^1.3.0",
+    "koa-route": "^2.4.1",
+    "koa-static": "^1.4.9",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
